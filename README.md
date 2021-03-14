@@ -1,1 +1,1 @@
-bt3103-week-6
+BT3103 Week 8 Discovery Activity 
